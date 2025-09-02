@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: DeathRoller Deluxe
+## Notes: Demonstrates the inability to make external HTTP requests from WoW addons.
+## Author: CyTechNomad
+DeathRoller_Deluxe.lua
