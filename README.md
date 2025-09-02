@@ -17,8 +17,8 @@ Whether you’re rolling for fun or fortune, DeathRoll Deluxe makes every coin c
 
 ### Gameplay Flow
 
-- [ ] **1. Challenge Initiation:**  
-  - Player A (Challenger) types `/deathroll PlayerB` to send a challenge.
+- [x] **1. Challenge Initiation:**  
+  - Player A (Challenger) targets Player B and types `/deathroll` or `/dr` to send a challenge.
 
 - [ ] **2. Acceptance and Wager Cap:**  
   - Player B receives a prompt to accept (`/deathroll accept <max>`) or decline.  
